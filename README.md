@@ -1,1 +1,1 @@
-# kunci.py
+# kunci
